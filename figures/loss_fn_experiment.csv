@@ -1,0 +1,13 @@
+,Loss Function Used,Learning Rate,Dropout,Avg HMAE,StdDev HMAE,Avg HMSE,StdDev HMSE
+0,Loss Function: MAE,Learning Rate:0.001,Dropout:0,0.48726144,0.108492285,0.4230253,0.20934904
+1,Loss Function: MAE,Learning Rate:0.001,Dropout:0.1,0.4634953,0.20235294,0.42518243,0.5121744
+2,Loss Function: MAE,Learning Rate:0.0001,Dropout:0,0.45989332,0.16639523,0.39673004,0.42132652
+3,Loss Function: MAE,Learning Rate:0.0001,Dropout:0.1,0.6164838,0.45911425,0.8784711,1.6042914
+4,Loss Function: MSE,Learning Rate:0.001,Dropout:0,0.41489133,0.06732817,0.28802875,0.1072404
+5,Loss Function: MSE,Learning Rate:0.001,Dropout:0.1,0.44105315,0.085987136,0.33192685,0.14521633
+6,Loss Function: MSE,Learning Rate:0.0001,Dropout:0,0.5009216,0.13225383,0.44957545,0.26437593
+7,Loss Function: MSE,Learning Rate:0.0001,Dropout:0.1,0.5632806,0.1867842,0.590459,0.43353647
+8,Loss Function: LogCosh,Learning Rate:0.001,Dropout:0,0.42235345,0.07772132,0.301408,0.12777846
+9,Loss Function: LogCosh,Learning Rate:0.001,Dropout:0.1,0.45495573,0.09601285,0.35631838,0.16456524
+10,Loss Function: LogCosh,Learning Rate:0.0001,Dropout:0,0.50937355,0.13163272,0.46386573,0.26155865
+11,Loss Function: LogCosh,Learning Rate:0.0001,Dropout:0.1,0.5680668,0.18048967,0.5962794,0.4153529
